@@ -1,0 +1,19 @@
+this is a beta release of storm. i am releasing the code early because i have had a few requests for it. first i want to give some credit because the matrix function came from dx matrix. there are some other small pieces of coding from other people whos names i cannot remember. if you think i used your source code then e-mail me and i will give you credit. 
+
+storm is far from complete and there will be a complete remake with new coding and interface to get away from the sub7 replica image. new features and bug fixes are expected so stay tuned!
+
+the code is copyrighted to myself and i would prefer it if you helped to make storm better rather than taking the code and making your own program from it. i want to get together a storm crew similar to the crew of sub7 so that i can make this program the best remote admin tool available on the net!
+
+in this version there is a bug with the file download in that it downloads the file but you need to close the client to open it! any suggestions on how to fix that would be appreciated! also, the upload function is not implemented, nor the ip notify or controlling the remote mouse or screenshots. i would love some help in those areas. the print function works but it doesn't print in bold or strikethru etc. alt ctrl del cannot be disabled and desktop items do not show again after being hidden!
+
+there are a few more bugs i'm sure and if you find any let me know!
+
+sorry about the lack of comments but i can't be fucked!
+for now thats all.
+
+               
+     
+
+                                                                                 neo
+
+e-mail address storm_by_neo@yahoo.co.uk or inut_99@yahoo.co.uk
